@@ -14,17 +14,18 @@ One or two paragraphs providing an overview of your project.
 
 ## Introduction
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+
 
 ## Value/Use
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Games bring students together. On Community Council Mr. Church was harping on us about how the HW community is severely lacking in school spirit and none of us care about each other or our school (he may have a point) so this game could be a way for us to bond. In theory. 
 
 ## User Interaction and Experience
 
 ## Competitive Element
+Expanding on those previous points– our community is also very competitive. While using money (look below) and such will get people interested, competition is what will make it fun. 
 
 ## Engagement and Addictiveness Strategies
+Real monetary benefits. While we focus on growth on campus, it would be easy to provide some sort of monetary prize to the winner(s) after each month. This would get students a lot more invested in each round, without us having to predict what kind of game is actually intrinsically the most addictive.
 
 ## Scalability and Expansion
 
