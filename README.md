@@ -1,6 +1,5 @@
-# Project Title
+# Astrology Etc.
 
-One or two paragraphs providing an overview of your project.
 
 ## Table of Contents
 
@@ -13,8 +12,7 @@ One or two paragraphs providing an overview of your project.
 - [Accessibility and Inclusivity](#accessibility-and-inclusivity)
 
 ## Introduction
-
-
+What do all great, addictive games have in common? Mind-numbing-ness. I dare you to tell a middle-aged woman to delete Candy Crush off her phone without getting jumped. If you made me delete my off-brand Scrabble (WordMaster) off my phone I would probably go catatonic. Thus, slight stupidity seems to be the way to go. Enter: off-brand Candy Crush! But the candies are teachers because Find Ricky C did really well last year and who doesn't have at least one teacher they would like to crush. 
 
 ## Value/Use
 Games bring students together. On Community Council Mr. Church was harping on us about how the HW community is severely lacking in school spirit and none of us care about each other or our school (he may have a point) so this game could be a way for us to bond. In theory. 
@@ -30,8 +28,3 @@ Real monetary benefits. While we focus on growth on campus, it would be easy to 
 ## Scalability and Expansion
 
 ## Accessibility and Inclusivity
-
-### Prerequisites
-
-What things you need to install the software and how to install them:
-
