@@ -55,33 +55,33 @@ This game will be inclusive because all students on campus can use it. It will n
 
 ## Technical Specifications
 1. Technology Stack
-Programming Language: JavaScript (with a framework like React Native for mobile app development)
-Game Engine: Phaser.js, integrated within a React Native WebView for game scenes.
-Mobile Development Framework: React Native for both Android and iOS compatibility.
-Frontend: React components for mobile UI, with stylesheets written in CSS-like language (e.g., StyleSheet in React Native).
+- Programming Language: JavaScript (with a framework like React Native for mobile app development)
+- Game Engine: Phaser.js, integrated within a React Native WebView for game scenes.
+- Mobile Development Framework: React Native for both Android and iOS compatibility.
+- Frontend: React components for mobile UI, with stylesheets written in CSS-like language (e.g., StyleSheet in React Native).
 2. Architecture
-MVC Pattern: Model-View-Controller pattern will be adapted for mobile app development, separating game logic (Model), screen rendering (View), and user input handling (Controller).
+- MVC Pattern: Model-View-Controller pattern will be adapted for mobile app development, separating game logic (Model), screen rendering (View), and user input handling (Controller).
 3. Data Model
-Candies/Teachers: Each will be an object with attributes like type (color filter/power), grid position, and special abilities or scores. They will be managed within a grid-like data structure for gameplay.
-Levels: Defined as unique configurations and arrays of teacher objects, with metadata for difficulty settings and department themes.
-Users: Data related to player profiles, including game progress, high scores, and achievements, will be stored locally or in the cloud.
+- Candies/Teachers: Each will be an object with attributes like type (color filter/power), grid position, and special abilities or scores. They will be managed within a grid-like data structure for gameplay.
+- Levels: Defined as unique configurations and arrays of teacher objects, with metadata for difficulty settings and department themes.
+- Users: Data related to player profiles, including game progress, high scores, and achievements, will be stored locally or in the cloud.
 4. Security and Performance
-Client-Side Performance: Mobile devices have varying capabilities, so performance will be optimized for fluid gameplay across different hardware.
-Data Security: User data, especially when tied to potential monetary rewards, will be securely handled with encryption and secure cloud storage practices.
+- Client-Side Performance: Mobile devices have varying capabilities, so performance will be optimized for fluid gameplay across different hardware.
+- Data Security: User data, especially when tied to potential monetary rewards, will be securely handled with encryption and secure cloud storage practices.
 5. Specific Functionalities
-    a. Touch Input and Gestures
-    Specification: The game will support touch input for swapping teacher/candy elements. Gestures will be smooth and responsive, using the native capabilities of mobile devices.
-    b. Scoring, Lives, and In-App Purchases
-    Specification: Real-time score tracking with additional options for lives and power-ups, potentially including in-app purchases for monetization and extended gameplay.
-    c. Progressive Difficulty and Unlockable Content
-    Specification: Levels will become progressively harder. Unlockable content, including special department heads and rare teachers with unique abilities, will add depth to the game.
-    d. Mobile-Centric Sound and Notifications
-    Specification: Sound effects optimized for mobile devices, with options for silent mode. Push notifications to engage players and announce competitions or rewards.
-    e. Responsive Mobile UI/UX
-    Specification: The user interface will be designed for a range of mobile devices, ensuring readability and ease of use across different screen sizes and orientations.
-    f. Accessibility Features
-    Specification: Accessibility features including text-to-speech, colorblind modes, and scalable UI elements to cater to users with disabilities.
-    g. Social and Competitive Features
-    Specification: Integration with social media for sharing scores and achievements, a leaderboard for competitive play, and possibly a multiplayer mode.
-    h. Personalization and Expansion
-    Specification: Features that allow players to upload images of their teachers to be integrated into the game, with privacy and moderation guidelines in place.
+- Touch Input and Gestures
+    - - Specification: The game will support touch input for swapping teacher/candy elements. Gestures will be smooth and responsive, using the native capabilities of mobile devices.
+- Scoring, Lives, and In-App Purchases
+    - - Specification: Real-time score tracking with additional options for lives and power-ups, potentially including in-app purchases for monetization and extended gameplay.
+- Progressive Difficulty and Unlockable Content
+    - - Specification: Levels will become progressively harder. Unlockable content, including special department heads and rare teachers with unique abilities, will add depth to the game.
+- Mobile-Centric Sound and Notifications
+    - - Specification: Sound effects optimized for mobile devices, with options for silent mode. Push notifications to engage players and announce competitions or rewards.
+- Responsive Mobile UI/UX
+    - - Specification: The user interface will be designed for a range of mobile devices, ensuring readability and ease of use across different screen sizes and orientations.
+- Accessibility Features
+    - - Specification: Accessibility features including text-to-speech, colorblind modes, and scalable UI elements to cater to users with disabilities.
+- Social and Competitive Features
+    - - Specification: Integration with social media for sharing scores and achievements, a leaderboard for competitive play, and possibly a multiplayer mode.
+- Personalization and Expansion
+    - - Specification: Features that allow players to upload images of their teachers to be integrated into the game, with privacy and moderation guidelines in place.
